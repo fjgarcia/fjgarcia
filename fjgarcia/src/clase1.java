@@ -13,5 +13,10 @@ public class clase1 {
 	{
 		
 	}
+	public static void metodo_rama_clase1()
+	{
+		
+	}
+
 
 }
